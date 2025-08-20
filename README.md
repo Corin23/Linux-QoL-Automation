@@ -81,14 +81,6 @@ sudo apt install xclip speedtest-cli bc libnotify-bin -y
 
 ---
 
-## 📌 Planned Scripts (Coming Soon)
-
-- Automatic VPN switcher (connects VPN on untrusted Wi-Fi)  
-- Smart idle optimizer (suspends heavy background apps when AFK)  
-- Context-based profiles (switch brightness/volume/layout based on location/time)  
-
----
-
 ## 🤝 Contributing
 
 Got a script idea?  
