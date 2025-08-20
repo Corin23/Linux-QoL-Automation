@@ -62,7 +62,7 @@ crontab -e
 
 Add this line:
 ```
-0 2 * * 0 /home/youruser/linux-qol-scripts/smart_cleanup.sh
+0 2 * * 0 /home/youruser/scripts/smart_cleanup.sh
 ```
 
 ---
